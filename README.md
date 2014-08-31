@@ -1,4 +1,4 @@
 IDC-low-or-no-cost
 ==================
 
-Invited Talk, [IDC 2014](http://aida.ii.uam.es/IDC2014/docs/IDC-2014-schedule.pdf)
+The real deal. Go to [this URL](http://jj.github.io/IDC-low-or-no-cost) to check this out or checkout and use your browser to load [`index.html`](index.html)
